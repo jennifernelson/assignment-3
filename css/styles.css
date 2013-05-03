@@ -3,9 +3,14 @@ body {
 }
 
 h1, h2, h3 {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'Verdana', sans-serif;
+	text-align: center;
 }
+
 
 p {
 	font-family: 'Roboto', sans-serif;
+	line-height: 18px;
 }
+
+
